@@ -1,6 +1,6 @@
 # Ribhav
 
-**`Fullstack Developer / Content Creator`**
+**`Fullstack Developer`**
 
 Hi everyone, I'm Ribhav. I'm from India. I work as a fullstack software engineer.
 
