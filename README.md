@@ -11,8 +11,4 @@ Hi everyone, I'm [Your Name]. I'm from [Your Country]. I work as a fullstack sof
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express](https://img.icons8.com/ios/50/000000/express-js.png)
 
 ### Tools
-![Git](https://img.icons8.com/color/48/000000/git.png) ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-
-### Popular Repositories
-- [Project 1](https://github.com/yourusername/project1): Description
-- [Project 2](https://github.com/yourusername/project2): Description
+![image](https://github.com/user-attachments/assets/493e3247-62d0-470f-8bf3-d30a7aef1f00)
