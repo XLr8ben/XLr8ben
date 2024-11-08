@@ -6,7 +6,7 @@ Hi everyone, I'm Ribhav. I'm from India. I work as a fullstack software engineer
 
   <p align="left">
       <a href="https://github.com/XLr8ben?tab=followers">
-    <img alt="Follow me on Github" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/follow/XLr8ben?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="Follow me on Github" title="Follow me on Github" src="https://img.shields.io/github/followers/XLr8ben?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=236ad3&labelColor=1155ba"/></a>
      <a href="https://github.com/XLr8ben?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/XLr8ben?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
