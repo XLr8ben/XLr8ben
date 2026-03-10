@@ -55,4 +55,8 @@ Hi everyone, I'm Ribhav. I'm from India. I work as a fullstack software engineer
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlr8ben&" alt="xlr8ben" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XLr8ben&show_icons=true&locale=en&layout=compact" alt="XLr8ben" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XLr8ben&show_icons=true&locale=en" alt="XLr8ben" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XLr8ben&" alt="XLr8ben" /></p>
