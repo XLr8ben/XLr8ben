@@ -11,6 +11,16 @@ Hi everyone, I'm Ribhav. I'm from India. I work as a fullstack software engineer
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/XLr8ben?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ribhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ribhav_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ribhav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribhav1" height="30" width="40" /></a>
+<a href="https://instagram.com/ribhav___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ribhav___" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/voidmaindebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="voidmaindebugger" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/warnerdavid101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="warnerdavid101" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/compiler_crasher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="compiler_crasher" height="30" width="40" /></a>
+</p>
+
 ---
 
 ### Frontend
