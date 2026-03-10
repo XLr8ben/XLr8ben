@@ -9,8 +9,8 @@ Hi everyone, I'm Ribhav. I'm from India. I work as a fullstack software engineer
     <img alt="Follow me on Github" title="Follow me on Github" src="https://img.shields.io/github/followers/XLr8ben?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=236ad3&labelColor=1155ba"/></a>
      <a href="https://github.com/XLr8ben?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/XLr8ben?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlr8ben&label=Profile%20views&color=0e75b6&style=flat" alt="xlr8ben" /> </p>
-    <p align="left"> <a href="https://twitter.com/ribhav_" target="blank"><img src="https://img.shields.io/twitter/follow/ribhav_?logo=twitter&style=for-the-badge" alt="ribhav_" /></a> </p>
+    <p> <img src="https://komarev.com/ghpvc/?username=xlr8ben&label=Profile%20views&color=0e75b6&style=flat" alt="xlr8ben" /> </p>
+     <a href="https://twitter.com/ribhav_" target="blank"><img src="https://img.shields.io/twitter/follow/ribhav_?logo=twitter&style=for-the-badge" alt="ribhav_" /></a>
    </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -55,8 +55,9 @@ Hi everyone, I'm Ribhav. I'm from India. I work as a fullstack software engineer
 <img align="left" alt="Swagger" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
 
+<br/>
 ---
 
-### Stats
+### 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlr8ben&" alt="xlr8ben" /></p>
