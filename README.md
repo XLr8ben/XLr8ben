@@ -32,12 +32,31 @@ I’m a full-stack software engineer who enjoys building scalable web applicatio
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://twitter.com/ribhav_"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://linkedin.com/in/ribhav1"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://instagram.com/ribhav___"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://www.hackerrank.com/voidmaindebugger"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/></a>
-<a href="https://codeforces.com/profile/warnerdavid101"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40"/></a>
-<a href="https://leetcode.com/compiler_crasher"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/></a>
+
+<a href="https://twitter.com/ribhav_">
+<img src="https://cdn.simpleicons.org/x" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/ribhav1">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://instagram.com/ribhav___">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/voidmaindebugger">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="40"/>
+</a>
+
+<a href="https://codeforces.com/profile/warnerdavid101">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="40"/>
+</a>
+
+<a href="https://leetcode.com/compiler_crasher">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+</a>
+
 </p>
 
 ---
@@ -70,13 +89,5 @@ I’m a full-stack software engineer who enjoys building scalable web applicatio
 # 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xlr8ben&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xlr8ben&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlr8ben&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xlr8ben&theme=tokyonight"/>
 </p>
