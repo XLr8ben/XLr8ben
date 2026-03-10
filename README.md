@@ -19,7 +19,7 @@ I’m a full-stack software engineer who enjoys building scalable web applicatio
 </a>
 
 <a href="https://twitter.com/ribhav_">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ribhav_?style=for-the-badge&logo=twitter"/>
+<img alt="X Follow" src="https://img.shields.io/twitter/follow/ribhav_?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
 
@@ -34,7 +34,7 @@ I’m a full-stack software engineer who enjoys building scalable web applicatio
 <p align="center">
 
 <a href="https://twitter.com/ribhav_">
-<img src="https://cdn.simpleicons.org/x" height="40"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
 
 <a href="https://linkedin.com/in/ribhav1">
