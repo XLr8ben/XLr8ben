@@ -1,63 +1,82 @@
-# Ribhav
+<h1 align="center">Hi 👋, I'm Ribhav</h1>
+<h3 align="center">Fullstack Developer from India 🇮🇳</h3>
 
-**`Fullstack Developer`**
-
-Hi everyone, I'm Ribhav. I'm from India. I work as a fullstack software engineer.
-
-  <p align="left">
-      <a href="https://github.com/XLr8ben?tab=followers">
-    <img alt="Follow me on Github" title="Follow me on Github" src="https://img.shields.io/github/followers/XLr8ben?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=236ad3&labelColor=1155ba"/></a>
-     <a href="https://github.com/XLr8ben?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/XLr8ben?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    <p> <img src="https://komarev.com/ghpvc/?username=xlr8ben&label=Profile%20views&color=0e75b6&style=flat" alt="xlr8ben" /> </p>
-     <a href="https://twitter.com/ribhav_" target="blank"><img src="https://img.shields.io/twitter/follow/ribhav_?logo=twitter&style=for-the-badge" alt="ribhav_" /></a>
-   </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ribhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ribhav_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ribhav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribhav1" height="30" width="40" /></a>
-<a href="https://instagram.com/ribhav___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ribhav___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/voidmaindebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="voidmaindebugger" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/warnerdavid101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="warnerdavid101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/compiler_crasher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="compiler_crasher" height="30" width="40" /></a>
+<p align="center">
+I’m a full-stack software engineer who enjoys building scalable web applications and solving complex problems.
 </p>
 
 ---
 
-### Frontend
-<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><br />
+## 📊 GitHub Stats
 
-<br/>
+<p align="center">
+<a href="https://github.com/XLr8ben?tab=followers">
+<img alt="GitHub Followers" src="https://img.shields.io/github/followers/XLr8ben?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-### Backend
+<a href="https://github.com/XLr8ben?tab=repositories&sort=stargazers">
+<img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/XLr8ben?style=for-the-badge&logo=star&label=Stars"/>
+</a>
 
-<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="CSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".Net Core" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><br />
+<a href="https://twitter.com/ribhav_">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ribhav_?style=for-the-badge&logo=twitter"/>
+</a>
+</p>
 
-<br/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=xlr8ben&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### Database
-
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br />
-
-<br/>
-
-### Tools
-<img align="left" alt="Swagger" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
-<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-
-<br/>
 ---
 
-### 
+# 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlr8ben&" alt="xlr8ben" /></p>
+<p align="center">
+<a href="https://twitter.com/ribhav_"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://linkedin.com/in/ribhav1"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://instagram.com/ribhav___"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.hackerrank.com/voidmaindebugger"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40"/></a>
+<a href="https://codeforces.com/profile/warnerdavid101"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40"/></a>
+<a href="https://leetcode.com/compiler_crasher"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,js" />
+</p>
+
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" />
+</p>
+
+## 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+## 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48"/>
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xlr8ben&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xlr8ben&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlr8ben&layout=compact&theme=tokyonight"/>
+</p>
