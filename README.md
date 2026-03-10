@@ -19,7 +19,7 @@ I’m a full-stack software engineer who enjoys building scalable web applicatio
 </a>
 
 <a href="https://twitter.com/ribhav_">
-<img alt="X Follow" src="https://img.shields.io/twitter/follow/ribhav_?style=for-the-badge&logo=x&logoColor=white"/>
+<img alt="Follow on X" src="https://img.shields.io/badge/Follow-%40ribhav_-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
 
